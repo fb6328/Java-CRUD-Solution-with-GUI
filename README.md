@@ -7,7 +7,7 @@ Download the zip folder and unzip into your project location
 Open with Netbeans IDE or your prefered IDE
 STEP 2
 Create a MYSQL database called simplelogin.
-Create a table called logins(userName(Varchar 20), password(Varcahr 50), doB(Varchar 10), roleId(Varchar 10))
+Create a table called logins(userName(Varchar 20), password(Varchar 50), doB(Varchar 10), roleId(Varchar 10))
 Insert a user record into the logins table by running an SQL query through your DBMS SQL area
 
 STEP 3

@@ -1,7 +1,7 @@
 # Java-CRUD-Solution-with-GUI
 A simple java CRUD application using GUI for log in, creating, reading, updating and deleting a user and log out.
 
-Follow th following steps to run the application and view the java source code
+Follow the following steps to run the application and view the java source code
 STEP 1
 Download the zip folder and unzip into your project location
 Open with Netbeans IDE or your prefered IDE
